@@ -1,0 +1,8 @@
+numpy==2.0.2
+matplotlib==3.10.0
+torch==2.9.0
+torchvision
+scikit-learn
+scikit-image==0.25.2
+opencv-python
+kornia==0.8.2
